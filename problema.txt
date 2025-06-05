@@ -1,0 +1,10 @@
+P.3.3. Desenvolva um programa que leia os dados de um arquivo de texto e que armazene os as 
+palavras lidas em uma única string. Essa string deverá ser separada por algum delimitador 
+configurável e que será uma entrada adicional ao programa (ex. vírgula, ponto e vírgula, espaço 
+em branco, etc.). A seguir, o programa solicita ao usuário que digite uma palavra e, então, usando 
+o algoritmo de busca sequencial, informa a quantidade de ocorrências da palavra na string que 
+foi carregada do arquivo de texto e, também, os deslocamentos onde a palavra (padrão) foi 
+encontrada. Ao ser encerrado, o programa informa também a quantidade de deslocamentos que 
+foram utilizados para percorrer toda a string. 
+
+P.3.4. Repetir o Problema 3.3 mas utilizando o algoritmo de Boyer-Moore. 
